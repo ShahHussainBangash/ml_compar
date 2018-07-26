@@ -1,2 +1,2 @@
-# ml_compar
-Machine Learning classification algorithms comparison
+# Machine Learning Algorithm comparison
+Machine Learning classification algorithms comparison.
